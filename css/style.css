@@ -1,0 +1,260 @@
+/**{
+	outline: 1px solid gray;
+}*/
+	.dekor{
+		background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(45,30,159,1) 50%, rgba(252,176,69,1) 100%);
+	}
+	.nav{
+		color: black;
+		float: right;
+		padding: 20px;
+		margin-bottom: 70px;
+		background: white;
+	}
+	.img{
+		width: 300px;
+		float: right;
+	}
+	.main_thing{
+		width: 850px;
+		margin: 0 auto;	
+		clear: both;
+		height: 500px;	
+		background: white;
+	}
+	.about_me{
+		float: left;
+		margin-top: 150px ;
+	}
+	.header{
+		/*height: 600px;*/
+		background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(45,30,159,1) 50%, rgba(252,176,69,1) 100%);
+	}
+	.container{
+		width: 950px;
+		margin: 0 auto;
+
+	}
+	.my_progikt{
+		text-align: center;
+		margin-bottom: 50px;
+		background: white;
+	}
+	.progert{
+		border: 1px solid black;
+		width: 450px;
+		height: 300px;
+		margin-bottom: 30px;
+		float: left;
+		background: white;
+	}
+	.progert:hover{
+	text-decoration: 0.5s;
+	-webkit-box-shadow: 0px 2px 5px 1px #000000;
+	box-shadow: 0px 2px 5px 1px #000000;
+	}
+	.progects {
+		width: 960px;
+		height: 700px;
+	}
+	.img_progert{
+		width: 300px
+	}
+
+	.skills{
+		border: 1px solid black;
+	}
+	.container{
+		width: 950px;
+		margin: 0 auto;
+		padding: 10px;
+	}
+	.Hard_Skills{
+		width: 450px;
+		float: left;
+		height: 260px;
+	}
+	.Soft_Skills{
+		width: 470px;
+		float: right;
+		height:260px;
+
+	}
+	.advantages{
+	margin: 0 auto;
+	}
+
+	.skill{
+		border: 1px  solid black;
+		padding: 10px;
+		background: white;
+		
+	}
+	.Soft_Skills_h2{
+		font-size: 30px;
+		text-align: center;
+	}
+	.advantages_h2{
+		font-size: 30px;
+		text-align: center;
+	}
+	.Hard_Skills_h1{
+		font-size: 30px;
+		text-align: center;
+	}
+	.ol{
+		font-size: 20px;
+	}
+	.container{
+		padding: 15px;
+	}
+	.input{
+		height: 100px;
+		width: 270px;
+	}
+	.form{
+		border: 1px solid black;
+		width: 500px;
+		padding: 20px;
+		float: left;
+	}
+	.button{
+		height: 50px;
+	}
+	.social_netvork_img_shkm{
+		width: 100px;
+		height: 100px;
+		margin-top: 215px;
+		float: right;
+		margin-right: 100px;
+	}
+	.social_netvork_div{
+		float: right;
+		width:200px;
+		height:350px;
+	}
+	.nav{
+		border: 1px solid black;
+	}
+	.progekt_div{
+		height: 1000px;
+	}
+	.right{
+		float: right;
+	}
+	.img_progert_one{
+		width: 450px;
+	}
+	.img_progert_twoo{
+		width: 440px;
+		height: 245px;
+	}
+	.img_progert_thre{
+		width: 450px;
+		height: 250px;
+	}
+	.img_progert_four{
+		width: 450px;
+		height: 250px;	
+	}
+	.big_progekt_one{
+		width: 900px;
+		 margin: 0 auto;
+	}
+	.h1_progekt_one{
+		text-align: center;
+	}
+	/*1 сторінка проект*/
+	.collection{
+		width: 300px;
+		height: 200px;
+		margin-left:73px;
+		margin-top: 50px;
+		padding: 2px;
+	}
+	.img_progekt_one{
+		width: 1050px;
+		margin: 0 auto;
+	}
+	.blog{
+		width: 300px;
+		height: 200px;
+		margin: 0 auto;
+		padding: 2px;
+	}
+	.comments{
+		width: 288px;
+		height: 200px;
+		padding: 2px;
+	}
+	.text_progekt_one{
+		width: 905px;
+		margin: 0 auto; 
+	}
+	.text_one{
+		border: 1px solid black;
+		background: white;
+	}
+	.progekt_thre_description{
+		width: 450px;
+		height: 200px;
+		margin-top: 50px;	
+		margin-left: 75px;
+
+	}
+	.progekt_thredescription{
+		width: 450px;
+		height: 200px;
+		margin: 0 auto;
+	}
+	.progekt_thre_description_one{
+			margin-left:70px;
+	}
+	.contact_form{
+		background: white;
+		margin: 0 auto;
+	}
+	.inst{
+		width: 200px;
+		height: 200px;
+		margin: 0 auto;
+	}
+	.fb{
+		width: 200px;
+		height: 200px;
+		margin: 0 auto;
+
+	}
+	.text_h1_contact{
+			text-align: center;
+	}
+	.p_contakte{
+		font-size: 	30px;
+		float: right;
+
+	}
+	.p_contakta{
+		font-size: 30px;
+		float: right;
+		margin-top: 40px;
+		margin-right: -80px;
+	}
+	.p_contakto{
+		font-size: 30px;
+		float: right;
+	}
+	.form{
+		background: white;
+	}
+	.social_netvork_div{
+	background: white;
+	}
+	.prom_one{
+		width: 900px;
+		height: 290px;
+		margin-left: 75px;
+	}
+	.footer{
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(45,30,159,1) 50%, rgba(252,176,69,1) 100%);
+		height: 400px;
+	}
